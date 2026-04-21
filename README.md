@@ -31,6 +31,7 @@
 ### https://www.scaler.com/academy/profile/16d9756ebf65/
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
 ---
 
 # ShotNote 
