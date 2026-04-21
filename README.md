@@ -31,6 +31,7 @@ COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100 ( Me Score 67.84)
   <img width="1098" height="963" alt="image" src="https://github.com/user-attachments/assets/5e86f499-8595-4b53-abfc-e6ae894a90d3" />
   <img width="1118" height="1144" alt="image" src="https://github.com/user-attachments/assets/521ef672-ce4f-4e1a-a066-41b0bd42fbc5" />
 
+---
 
 # SECTION : B ( Exam Score Subjects ) || Marks 25+
 
@@ -53,13 +54,17 @@ COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100 ( Me Score 67.84)
 5. Complier Design (CD)
 6. DataBase Management System (DBMS)
 7. Digital Electronics & Logic's
-  
+
+---
+
 # SECTION : C ( Core Subjects ) || Marks 25+
 
 8. Computer Networks (CN) and Network Security
 9. Computer Organizations & Architecture ( COA ) , Microprocessors 
 10. Operating System ( OS) 
- 
+
+---
+
 # SECTION : D ( Mathematics) || Marks 30+
 
 11. Discrete Mathematics
