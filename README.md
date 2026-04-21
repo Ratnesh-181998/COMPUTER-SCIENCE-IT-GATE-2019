@@ -34,10 +34,25 @@ COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100 ( Me Score 67.84)
 
 # SECTION : B ( Exam Score Subjects ) || Marks 25+
 
-4. Theory of Computation (TOC) 
-5. Complier Design (CD)
-6. DataBase Management System (DBMS)
-7. Digital Electronics & Logic's
+4. Theory of Computation (TOC)
+   
+- Theory Book
+  <img width="972" height="1311" alt="image" src="https://github.com/user-attachments/assets/9af1ac92-42c0-4afa-93eb-ce280d32b6e6" />
+  <img width="979" height="899" alt="image" src="https://github.com/user-attachments/assets/10bbcfdc-dc8b-4783-a8ad-fabf46dac6ba" />
+  <img width="952" height="1066" alt="image" src="https://github.com/user-attachments/assets/46db4ea7-5f4a-4ea5-b621-9c398c5fef2f" />
+  <img width="947" height="1111" alt="image" src="https://github.com/user-attachments/assets/6579e345-2947-41d7-aa3b-2657047971b2" />
+  
+- WorkBook
+  <img width="1072" height="1377" alt="image" src="https://github.com/user-attachments/assets/8c5fe6f1-162a-47a4-bbbb-9ecaa6146306" />
+  <img width="1131" height="1085" alt="image" src="https://github.com/user-attachments/assets/3124f217-0250-4382-ab63-de7c4a830fe3" />
+  <img width="1042" height="1120" alt="image" src="https://github.com/user-attachments/assets/f13558e1-e345-4191-91ef-220f38732af8" />
+  <img width="1085" height="1117" alt="image" src="https://github.com/user-attachments/assets/d88affd0-533e-4cfb-8985-e2ea5cac6af9" />
+  <img width="1086" height="1335" alt="image" src="https://github.com/user-attachments/assets/d9e11f35-90d0-4025-9ff3-91d6b15300b8" />
+
+
+6. Complier Design (CD)
+7. DataBase Management System (DBMS)
+8. Digital Electronics & Logic's
   
 # SECTION : C ( Core Subjects ) || Marks 25+
 
