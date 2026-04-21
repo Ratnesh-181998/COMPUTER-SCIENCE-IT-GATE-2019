@@ -14,10 +14,23 @@ COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100 ( Me Score 67.84)
 ---
 
 # SECTION : A ( Heart of CS Subjects ) || Marks 20+
+1. Algorithms (Algo)
+- Theory Book ( Algo)
+  <img width="991" height="1366" alt="image" src="https://github.com/user-attachments/assets/da399141-5d2a-4161-8880-da79b4bea0af" />
+  <img width="939" height="1183" alt="image" src="https://github.com/user-attachments/assets/1cd4c2d6-6739-4086-924d-5814ccceaedc" />
 
-1. Programming (C,C++,Java, Javascript , Python )
-2. Algorithms (Algo) 
+2. Programming (C,C++,Java, Javascript , Python )
 3. Data Structures (DS)
+- Theory Book ( Programming & DS)
+  <img width="992" height="1163" alt="image" src="https://github.com/user-attachments/assets/7287d1d2-5e72-447f-869e-d47990018060" />
+  <img width="953" height="1375" alt="image" src="https://github.com/user-attachments/assets/2e0bd81b-4f53-43e0-b120-38557f5c763c" />
+
+- WORKBOOK ( Algorithm,Programming & Data Structures)
+  <img width="1087" height="1379" alt="image" src="https://github.com/user-attachments/assets/a8bd5b73-c7c5-4928-9176-4f1adb0f6052" />
+  <img width="1114" height="1132" alt="image" src="https://github.com/user-attachments/assets/d78bf200-829c-48e3-b881-ec14142822b9" />
+  <img width="1098" height="963" alt="image" src="https://github.com/user-attachments/assets/5e86f499-8595-4b53-abfc-e6ae894a90d3" />
+  <img width="1118" height="1144" alt="image" src="https://github.com/user-attachments/assets/521ef672-ce4f-4e1a-a066-41b0bd42fbc5" />
+
 
 # SECTION : B ( Exam Score Subjects ) || Marks 25+
 
