@@ -16,12 +16,12 @@ COMPUTER SCIENCE &amp; IT GATE 2019
 # SECTION : A ( Heart of CS Subjects ) || Marks 20+
 
 1. Programming (C,C++,Java, Javascript , Python )
-2. Algorithms (Algo)
+2. Algorithms (Algo) 
 3. Data Structures (DS)
 
 # SECTION : B ( Exam Score Subjects ) || Marks 25+
 
-4. Theory of Computation (TOC)
+4. Theory of Computation (TOC) 
 5. Complier Design (CD)
 6. DataBase Management System (DBMS)
 7. Digital Electronics & Logic's
