@@ -52,8 +52,53 @@ COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100 ( Me Score 67.84)
 
 
 5. Complier Design (CD)
+- Theory Book
+  <img width="1108" height="1382" alt="image" src="https://github.com/user-attachments/assets/93a84f47-e82c-4510-9ba0-6b08a7029ec3" />
+  <img width="1107" height="1023" alt="image" src="https://github.com/user-attachments/assets/1014eb2a-f2dc-47c1-8d9e-bb2c7369dd3d" />
+  <img width="1111" height="1254" alt="image" src="https://github.com/user-attachments/assets/ab336793-e4ef-4acb-b8c9-5796bc5a5d26" />
+  <img width="1148" height="1145" alt="image" src="https://github.com/user-attachments/assets/f0fe8d5c-e7f8-4f9e-93a5-1c9a17bcafc2" />
+  
+- WorkBook
+  <img width="1163" height="1086" alt="image" src="https://github.com/user-attachments/assets/e4d1a9b1-ecce-40ef-86ca-b2839341e95d" />
+  <img width="1022" height="1075" alt="image" src="https://github.com/user-attachments/assets/aa71d31a-a10a-4fee-b7fc-67ecee92dd80" />
+  <img width="1118" height="1118" alt="image" src="https://github.com/user-attachments/assets/0c25081b-7bdf-4077-9948-d582094ca1ae" />
+  <img width="1097" height="1294" alt="image" src="https://github.com/user-attachments/assets/3e1b0f3b-28e6-4f21-ae85-58fb30653d04" />
+
+
 6. DataBase Management System (DBMS)
+   
+- Theory Book
+  <img width="1480" height="1290" alt="image" src="https://github.com/user-attachments/assets/645675f0-a367-4e5b-98cb-09698ddeb4dc" />
+  <img width="1405" height="1354" alt="image" src="https://github.com/user-attachments/assets/2670de8a-59ec-413a-8d3a-78311e83ca29" />
+  <img width="978" height="1319" alt="image" src="https://github.com/user-attachments/assets/2f34bee3-332d-47a9-8054-48bebb44cbd2" />
+  <img width="1012" height="856" alt="image" src="https://github.com/user-attachments/assets/1e95178b-2d73-4e47-a818-e127fb67326d" />
+  <img width="968" height="914" alt="image" src="https://github.com/user-attachments/assets/adc0485a-f4a8-4e5b-85b2-992da79416e9" />
+
+- WorkBook
+<img width="1416" height="1316" alt="image" src="https://github.com/user-attachments/assets/c0d4f4cb-9a49-4cc9-9134-6891b2bfce29" />
+<img width="1438" height="1286" alt="image" src="https://github.com/user-attachments/assets/84c8762a-1fb4-48a7-8cf0-beefe4e6072b" />
+<img width="1164" height="1128" alt="image" src="https://github.com/user-attachments/assets/4b058861-4535-4f93-9552-e6f7ebe2a88f" />
+<img width="1189" height="1240" alt="image" src="https://github.com/user-attachments/assets/3a7d8bd0-1729-4103-bdaf-8fb9637829e0" />
+<img width="1187" height="1310" alt="image" src="https://github.com/user-attachments/assets/acbd7709-6de3-4ad6-b61b-505f15547989" />
+
+    
 7. Digital Electronics & Logic's
+   
+- Theory Book
+<img width="1090" height="1376" alt="image" src="https://github.com/user-attachments/assets/b7793fe8-dbc5-4946-a422-c83e3a123212" />
+<img width="1091" height="1057" alt="image" src="https://github.com/user-attachments/assets/43f3098b-bb54-4004-8aa3-4549360842cf" />
+<img width="1113" height="1143" alt="image" src="https://github.com/user-attachments/assets/606d7acb-a65c-4298-9743-de252cb6a8e3" />
+<img width="1122" height="1363" alt="image" src="https://github.com/user-attachments/assets/76e6a5f4-55d4-4174-a143-ca095ca59c57" />
+
+  
+- WorkBook
+<img width="1077" height="1349" alt="image" src="https://github.com/user-attachments/assets/6bcc4b19-8124-4293-8082-97e5c429bdb5" />
+<img width="1013" height="984" alt="image" src="https://github.com/user-attachments/assets/e5d0417b-1417-4104-81a6-2edefb3b268b" />
+<img width="986" height="965" alt="image" src="https://github.com/user-attachments/assets/928ba8aa-9699-4d92-a298-ca48794e7e9f" />
+<img width="1070" height="1237" alt="image" src="https://github.com/user-attachments/assets/78d953e9-2ad8-49a2-93f1-bb99c77e11b9" />
+<img width="1010" height="930" alt="image" src="https://github.com/user-attachments/assets/e6f7b5fa-f766-4a0e-921c-ce3f5e8387a5" />
+<img width="1094" height="1293" alt="image" src="https://github.com/user-attachments/assets/d41fdbca-6e76-453b-8466-986eda523470" />
+
 
 ---
 
