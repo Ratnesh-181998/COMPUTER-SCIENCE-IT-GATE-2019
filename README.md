@@ -15,7 +15,7 @@ COMPUTER SCIENCE &amp; IT GATE 2019
 
 # SECTION : A ( Heart of CS Subjects )
 
-- 1. Programming (C,C++,Java, Javascript , Python )
+1. Programming (C,C++,Java, Javascript , Python )
 - 2. Algorithms (Algo)
 - 3. Data Structures (DS)
 - 4. Theory of Computation (TOC)
