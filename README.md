@@ -18,19 +18,21 @@ COMPUTER SCIENCE &amp; IT GATE 2019
 1. Programming (C,C++,Java, Javascript , Python )
 2. Algorithms (Algo)
 3. Data Structures (DS)
+
+# SECTION : B ( Exam Score Subjects )
+
 4. Theory of Computation (TOC)
 5. Complier Design (CD)
-
-
-# SECTION : B ( Core Subjects )
-
 6. DataBase Management System (DBMS)
-7. Operating System ( OS)
+7. Digital Electronics & Logic's
+  
+# SECTION : C ( Core Subjects )
+
 8. Computer Networks (CN) and Network Security
 9. Computer Organizations & Architecture ( COA ) , Microprocessors 
-10. Digital Electronics & Logic's
+10. Operating System ( OS) 
  
-# SECTION : C ( Mathematics)
+# SECTION : D ( Mathematics)
 
 11. Discrete Mathematics
 12. Engineering Mathematics
