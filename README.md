@@ -30,12 +30,17 @@
 13. General Aptitude & Reasoning
 14. General Logical English
 
----
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # COMPUTER SCIENCE AND IT GATE 2019  || Total Marks 100
 COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100 ( Me Score 67.84)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # SECTION : A ( Heart of CS Subjects ) || Marks 20+
 1. Algorithms (Algo)
@@ -54,8 +59,8 @@ COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100 ( Me Score 67.84)
   <img width="1114" height="1132" alt="image" src="https://github.com/user-attachments/assets/d78bf200-829c-48e3-b881-ec14142822b9" />
   <img width="1098" height="963" alt="image" src="https://github.com/user-attachments/assets/5e86f499-8595-4b53-abfc-e6ae894a90d3" />
   <img width="1118" height="1144" alt="image" src="https://github.com/user-attachments/assets/521ef672-ce4f-4e1a-a066-41b0bd42fbc5" />
-
----
+  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # SECTION : B ( Exam Score Subjects ) || Marks 25+
 
@@ -123,8 +128,7 @@ COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100 ( Me Score 67.84)
 <img width="1010" height="930" alt="image" src="https://github.com/user-attachments/assets/e6f7b5fa-f766-4a0e-921c-ce3f5e8387a5" />
 <img width="1094" height="1293" alt="image" src="https://github.com/user-attachments/assets/d41fdbca-6e76-453b-8466-986eda523470" />
 
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # SECTION : C ( Core Subjects ) || Marks 25+
 
@@ -181,7 +185,7 @@ COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100 ( Me Score 67.84)
 <img width="721" height="933" alt="image" src="https://github.com/user-attachments/assets/8ec5927c-d1f7-4560-a1fd-ff69867d6f49" />
 <img width="737" height="919" alt="image" src="https://github.com/user-attachments/assets/dc4e8357-d7cf-4b2b-a1d8-3c2948d2cc2b" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 # SECTION : D ( Mathematics) || Marks 30+
 
@@ -254,7 +258,7 @@ COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100 ( Me Score 67.84)
 <img width="1138" height="1338" alt="image" src="https://github.com/user-attachments/assets/dfd4daad-563b-42cb-be81-fcebae961d12" />
 
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
