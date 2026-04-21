@@ -105,17 +105,87 @@ COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100 ( Me Score 67.84)
 # SECTION : C ( Core Subjects ) || Marks 25+
 
 8. Computer Networks (CN) and Network Security
-9. Computer Organizations & Architecture ( COA ) , Microprocessors 
-10. Operating System ( OS) 
+   
+- Theory Book
+<img width="1101" height="1378" alt="image" src="https://github.com/user-attachments/assets/2a6b6b27-08fe-469f-8256-fec248f5af7a" />
+<img width="1004" height="1050" alt="image" src="https://github.com/user-attachments/assets/e0771e56-5522-40b1-9bf1-18a21fc3ae76" />
+<img width="746" height="1018" alt="image" src="https://github.com/user-attachments/assets/c0b35046-ff96-424d-90b4-9e4c4ed9ace9" />
+<img width="754" height="842" alt="image" src="https://github.com/user-attachments/assets/4a407258-73ce-499e-b046-2cc180639ffb" />
+<img width="726" height="800" alt="image" src="https://github.com/user-attachments/assets/83784874-6c39-46c1-b9e2-5a81f42d6521" />
+
+- WorkBook
+<img width="1072" height="1350" alt="image" src="https://github.com/user-attachments/assets/ebfb3426-ab0d-47f2-9c8f-96c6b4760bde" />
+<img width="1068" height="1112" alt="image" src="https://github.com/user-attachments/assets/d0f86dbf-df3e-48ec-822c-9cfd2e4c8182" />
+<img width="1097" height="1300" alt="image" src="https://github.com/user-attachments/assets/bb36b884-1236-42fd-aa1c-dd0cc342bc77" />
+<img width="1119" height="1327" alt="image" src="https://github.com/user-attachments/assets/4fcbf0a5-bc4f-4b34-bd14-605f6d8c06d3" />
+<img width="1061" height="1305" alt="image" src="https://github.com/user-attachments/assets/be455ca9-ab7f-4d3b-903c-0ebd4c25755f" />
+
+
+9. Computer Organizations & Architecture ( COA ) , Microprocessors
+    
+- Theory Book
+<img width="742" height="974" alt="image" src="https://github.com/user-attachments/assets/330258e8-b20e-4e57-ac7c-f6398a84efa4" />
+<img width="712" height="767" alt="image" src="https://github.com/user-attachments/assets/dd6b8685-be74-46dc-b9e8-e1e6323204f0" />
+<img width="729" height="864" alt="image" src="https://github.com/user-attachments/assets/9c940ae9-029f-482e-8b39-3641b3ac178a" />
+<img width="738" height="835" alt="image" src="https://github.com/user-attachments/assets/58d08cf6-3669-4feb-8fbb-d456a81b5ec7" />
+<img width="730" height="801" alt="image" src="https://github.com/user-attachments/assets/52f59529-e06e-4630-a1e2-f971d253aaca" />
+<img width="729" height="967" alt="image" src="https://github.com/user-attachments/assets/b762452b-2aef-4ee5-94d5-d0eab02ad7d6" />
+
+- WorkBook
+<img width="950" height="1259" alt="image" src="https://github.com/user-attachments/assets/c37ddfc7-ec58-42c9-9818-6f787aa1c358" />
+<img width="922" height="875" alt="image" src="https://github.com/user-attachments/assets/6f90cb0c-77a6-45e4-a15a-c7aa7f5ba038" />
+<img width="933" height="1049" alt="image" src="https://github.com/user-attachments/assets/90007339-79af-41db-b735-99db848ff863" />
+<img width="977" height="1204" alt="image" src="https://github.com/user-attachments/assets/db4913b4-9c07-4658-abd4-a3d7592bd2f1" />
+<img width="935" height="1209" alt="image" src="https://github.com/user-attachments/assets/878969be-e052-4897-9edf-f0f0ae7b9fde" />
+
+
+10. Operating System ( OS)
+    
+- Theory Book
+<img width="728" height="989" alt="image" src="https://github.com/user-attachments/assets/63cb0810-7093-4923-8c52-101df31b769a" />
+<img width="766" height="797" alt="image" src="https://github.com/user-attachments/assets/9d14daf8-d07b-4036-84a2-37e4555cb983" />
+<img width="724" height="981" alt="image" src="https://github.com/user-attachments/assets/e4a54e20-b836-4846-9dd1-3066a83737ef" />
+<img width="738" height="616" alt="image" src="https://github.com/user-attachments/assets/f30ddd4f-2bc7-458c-b8a0-36cd5d41244c" />
+<img width="733" height="603" alt="image" src="https://github.com/user-attachments/assets/6d770c8d-0494-45c6-95c0-30bbf8535328" />
+<img width="723" height="784" alt="image" src="https://github.com/user-attachments/assets/ff05eeb4-6ee5-4c07-a702-a998c25219af" />
+<img width="756" height="992" alt="image" src="https://github.com/user-attachments/assets/cf3e5077-75bf-4077-ade3-ec5bfb66e7c8" />
+
+- WorkBook
+<img width="716" height="1018" alt="image" src="https://github.com/user-attachments/assets/896ed871-0838-4516-8168-9cbd25881332" />
+<img width="700" height="722" alt="image" src="https://github.com/user-attachments/assets/d241d0f5-6363-402a-be91-ad58f99c4f8d" />
+<img width="723" height="890" alt="image" src="https://github.com/user-attachments/assets/9ce5080d-5b81-43f3-9597-ea466a54330a" />
+<img width="721" height="933" alt="image" src="https://github.com/user-attachments/assets/8ec5927c-d1f7-4560-a1fd-ff69867d6f49" />
+<img width="737" height="919" alt="image" src="https://github.com/user-attachments/assets/dc4e8357-d7cf-4b2b-a1d8-3c2948d2cc2b" />
 
 ---
 
 # SECTION : D ( Mathematics) || Marks 30+
 
 11. Discrete Mathematics
-12. Engineering Mathematics
-13. General Aptitude & Reasoning 
-14. General Logical English
+
+- Theory Book
+  
+- WorkBook
+
+
+13. Engineering Mathematics
+    
+- Theory Book
+  
+- WorkBook
+
+15. General Aptitude & Reasoning
+    
+- Theory Book
+  
+- WorkBook
+
+17. General Logical English
+
+- Theory Book
+  
+- WorkBook
+
 
 ---
 
