@@ -27,21 +27,10 @@
 ### Data Science ,Machine Learning, MLOPS, Deep Learning , Neural Network, Computer Vision , NLP ,GEN AI , Machine Learning and Data Engineering System Design ( 1620+ Problem Solved ) : https://github.com/Ratnesh-181998/DSML
 
 ### Algorithms and Data Structure (Competitive Programming Including all coding platform's 5000+ Problems/Questions solved ) : https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures
-
----
+### [![Scaler](https://img.shields.io/badge/Scaler-FF6B6B?style=for-the-badge&logo=scaler&logoColor=white)](https://www.scaler.com/academy/profile/16d9756ebf65/)
+### https://www.scaler.com/academy/profile/16d9756ebf65/
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
-
-# [![Scaler](https://img.shields.io/badge/Scaler-FF6B6B?style=for-the-badge&logo=scaler&logoColor=white)](https://www.scaler.com/academy/profile/16d9756ebf65/)
-
-# https://www.scaler.com/academy/profile/16d9756ebf65/
-
-<img width="1864" height="763" alt="image" src="https://github.com/user-attachments/assets/c62856bc-121d-4fa6-9304-a7d8cc761ac3" />
-
-<img width="4097" height="1353" alt="image" src="https://github.com/user-attachments/assets/20448d04-63f0-4af5-92dc-86a8a212ac8c" />
-
-
-
 ---
 
 # ShotNote 
