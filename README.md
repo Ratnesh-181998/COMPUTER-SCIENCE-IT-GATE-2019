@@ -50,9 +50,9 @@ COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100 ( Me Score 67.84)
   <img width="1086" height="1335" alt="image" src="https://github.com/user-attachments/assets/d9e11f35-90d0-4025-9ff3-91d6b15300b8" />
 
 
-6. Complier Design (CD)
-7. DataBase Management System (DBMS)
-8. Digital Electronics & Logic's
+5. Complier Design (CD)
+6. DataBase Management System (DBMS)
+7. Digital Electronics & Logic's
   
 # SECTION : C ( Core Subjects ) || Marks 25+
 
