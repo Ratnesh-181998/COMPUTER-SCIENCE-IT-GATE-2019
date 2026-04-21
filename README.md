@@ -164,27 +164,70 @@ COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100 ( Me Score 67.84)
 11. Discrete Mathematics
 
 - Theory Book
-  
+<img width="1134" height="1381" alt="image" src="https://github.com/user-attachments/assets/7151379c-781e-4051-a929-94ced84d30a9" />
+<img width="1048" height="1018" alt="image" src="https://github.com/user-attachments/assets/64ed9517-db8c-4e0b-ae99-f820b5bc5dc9" />
+<img width="1104" height="1298" alt="image" src="https://github.com/user-attachments/assets/329110dc-b90a-4845-9b27-1c1da817b397" />
+<img width="1105" height="662" alt="image" src="https://github.com/user-attachments/assets/323bc6b8-a40f-41eb-b690-3df4fc35d7ac" />
+<img width="1043" height="838" alt="image" src="https://github.com/user-attachments/assets/67bcc8db-3159-407c-9198-c2497605c3a8" />
+<img width="1094" height="1247" alt="image" src="https://github.com/user-attachments/assets/9143738a-72f7-45ed-b889-57c196eb299d" />
+
 - WorkBook
+<img width="1038" height="1347" alt="image" src="https://github.com/user-attachments/assets/53e14bef-7e73-4b48-89f5-20c3aae378ca" />
+<img width="1034" height="1053" alt="image" src="https://github.com/user-attachments/assets/7962b982-c616-40c6-8493-7ec20a08b955" />
+<img width="980" height="995" alt="image" src="https://github.com/user-attachments/assets/9792859c-7afe-4393-85e1-ab37ba234ae5" />
+<img width="1085" height="1280" alt="image" src="https://github.com/user-attachments/assets/e2ee3411-6975-4789-bdf4-701085e4d3c1" />
+<img width="725" height="910" alt="image" src="https://github.com/user-attachments/assets/65a765e4-6f5d-4fc6-abca-1551c2e00fe9" />
 
 
-13. Engineering Mathematics
+12. Engineering Mathematics
     
 - Theory Book
-  
-- WorkBook
+<img width="714" height="982" alt="image" src="https://github.com/user-attachments/assets/14b3b44b-91ed-4a20-81de-8f70730d6d46" />
+<img width="721" height="824" alt="image" src="https://github.com/user-attachments/assets/d2a4aee7-5d4f-4540-ae2d-acb86d2e5b94" />
+<img width="752" height="963" alt="image" src="https://github.com/user-attachments/assets/efbabec5-7733-4054-8780-c2bb00c8e449" />
+<img width="652" height="959" alt="image" src="https://github.com/user-attachments/assets/aede4531-3b14-42bb-b97b-fb16883e7dd0" />
+<img width="684" height="972" alt="image" src="https://github.com/user-attachments/assets/b5d4822c-f9d4-40b7-9303-4982778de972" />
+<img width="758" height="1013" alt="image" src="https://github.com/user-attachments/assets/ea00f2c0-f9f5-4146-82b0-2d249ed52542" />
 
-15. General Aptitude & Reasoning
+- WorkBook
+<img width="743" height="1001" alt="image" src="https://github.com/user-attachments/assets/6786d2c3-5695-4f39-a2ba-668a6421d6a3" />
+<img width="701" height="771" alt="image" src="https://github.com/user-attachments/assets/548bd3eb-a905-4fe2-ab3d-fbe9a5994b76" />
+<img width="756" height="901" alt="image" src="https://github.com/user-attachments/assets/8b54cf02-e787-4239-9d0d-056355b9a875" />
+<img width="712" height="982" alt="image" src="https://github.com/user-attachments/assets/bb9785ab-434c-4f2d-bc32-f897206a442a" />
+<img width="738" height="1020" alt="image" src="https://github.com/user-attachments/assets/f3759d20-4386-40bd-8f08-f1c2f9b65a00" />
+
+13. General Aptitude & Reasoning
     
 - Theory Book
-  
-- WorkBook
+  <img width="1139" height="1247" alt="image" src="https://github.com/user-attachments/assets/3d5288bc-136c-4ad9-a19d-681f2b795366" />
+  <img width="1025" height="1213" alt="image" src="https://github.com/user-attachments/assets/50149721-b7dc-4c94-8816-a1a242a124e2" />
+  <img width="1022" height="1335" alt="image" src="https://github.com/user-attachments/assets/4f11abe6-4716-4bd1-af3c-60d845bdb7b0" />
 
-17. General Logical English
+- WorkBook
+<img width="1176" height="1220" alt="image" src="https://github.com/user-attachments/assets/45bd2132-6780-4a19-b198-38674545ef88" />
+<img width="1087" height="1163" alt="image" src="https://github.com/user-attachments/assets/48a4e6fb-e0f8-402a-92b0-85f0d5a9ce8a" />
+<img width="932" height="1257" alt="image" src="https://github.com/user-attachments/assets/47fdd4e7-f5a3-43e0-86df-524edc8a0484" />
+<img width="961" height="1215" alt="image" src="https://github.com/user-attachments/assets/07764e44-2467-4818-bedf-252e075baee2" />
+
+14. General Logical English
 
 - Theory Book
-  
+<img width="1002" height="1341" alt="image" src="https://github.com/user-attachments/assets/6fc43de7-9014-47c9-b578-e121fa0c3f67" />
+<img width="919" height="872" alt="image" src="https://github.com/user-attachments/assets/245e21f1-534e-441a-bfa9-e57715191276" />
+<img width="1029" height="1147" alt="image" src="https://github.com/user-attachments/assets/874e6b9e-a8ee-472c-b557-804462421e1d" />
+<img width="973" height="1236" alt="image" src="https://github.com/user-attachments/assets/54c38d07-1674-4c37-aaa8-7ac84af3f41d" />
+<img width="1000" height="1319" alt="image" src="https://github.com/user-attachments/assets/5f148e53-c1b7-4b1b-adf1-f2bb85cf3964" />
+<img width="779" height="1040" alt="image" src="https://github.com/user-attachments/assets/f028bfb7-d2fb-43f5-a2d5-990370b5c944" />
+<img width="721" height="1016" alt="image" src="https://github.com/user-attachments/assets/f4d2128b-c9b5-4830-b86c-a52afe4e221d" />
+<img width="756" height="998" alt="image" src="https://github.com/user-attachments/assets/56082d45-47be-461b-95cf-c2894920496f" />
+<img width="747" height="427" alt="image" src="https://github.com/user-attachments/assets/c6b55bd6-a623-4991-81b8-007a1f2a5d89" />
+
 - WorkBook
+
+<img width="1118" height="1340" alt="image" src="https://github.com/user-attachments/assets/c78f59e6-ee06-4530-aa94-76dfdef007f8" />
+<img width="1077" height="1059" alt="image" src="https://github.com/user-attachments/assets/21763a4d-3d14-46ae-a9f1-4548915c0dfb" />
+<img width="1066" height="1082" alt="image" src="https://github.com/user-attachments/assets/e8ea3ba7-5c36-4878-b47d-e7eff2cddbfe" />
+<img width="1138" height="1338" alt="image" src="https://github.com/user-attachments/assets/dfd4daad-563b-42cb-be81-fcebae961d12" />
 
 
 ---
