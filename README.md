@@ -9,7 +9,7 @@
 ---
 
 # COMPUTER SCIENCE AND IT GATE 2019  || Total Marks 100
-COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100
+COMPUTER SCIENCE &amp; IT GATE 2019 || Total Marks 100 ( Me Score 67.84)
 
 ---
 
