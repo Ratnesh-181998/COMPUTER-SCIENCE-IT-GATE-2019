@@ -8,6 +8,46 @@
 
 ---
 
+# Check out my Github Profile!
+
+- Data Scientist | AI/ML | GenAI & Agentic AI | Scalable AI Systems | 1PB+ Data | Cloud 
+- Building and deploying production-grade AI/ML & LLM-based systems at scale with real business impact.
+- Experienced with petabyte-scale (1PB+) data, real-time pipelines, cloud deployments, and enterprise GenAI solutions (RAG, chatbots, vector search).
+
+### GitHub Profile : https://github.com/Ratnesh-181998
+
+### Learning Profile : https://www.scaler.com/academy/profile/16d9756ebf65/
+
+### Technical Social-Profiles : https://github.com/Ratnesh-181998/Resume-and-Social-Profiles
+
+### AGENTIC AI | GEN AI | LLMOps & AIOps Portfolio : https://github.com/Ratnesh-181998/LLMOps-and-AIOps-Work
+
+### AI/ML & DE Portfolio : https://share.streamlit.io/user/ratnesh-181998
+
+### Data Science ,Machine Learning, MLOPS, Deep Learning , Neural Network, Computer Vision , NLP ,GEN AI , Machine Learning and Data Engineering System Design ( 1620+ Problem Solved ) : https://github.com/Ratnesh-181998/DSML
+
+### Algorithms and Data Structure (Competitive Programming Including all coding platform's 5000+ Problems/Questions solved ) : https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,20,12,6&height=3" width="100%">
+
+# [![Scaler](https://img.shields.io/badge/Scaler-FF6B6B?style=for-the-badge&logo=scaler&logoColor=white)](https://www.scaler.com/academy/profile/16d9756ebf65/)
+
+# https://www.scaler.com/academy/profile/16d9756ebf65/
+
+<img width="1864" height="763" alt="image" src="https://github.com/user-attachments/assets/c62856bc-121d-4fa6-9304-a7d8cc761ac3" />
+
+<img width="4097" height="1353" alt="image" src="https://github.com/user-attachments/assets/20448d04-63f0-4af5-92dc-86a8a212ac8c" />
+
+
+<img width="1586" height="1403" alt="image" src="https://github.com/user-attachments/assets/41e58683-82ed-4ad9-ae7d-7d584f112118" />
+	
+<img width="1586" height="1354" alt="image" src="https://github.com/user-attachments/assets/8e952e72-afed-410c-8daa-3a11b361a3a9" />
+
+
+---
+
 # ShotNote 
 
 ## COMPUTER SCIENCE AND IT GATE 2019  || Total Marks 100
