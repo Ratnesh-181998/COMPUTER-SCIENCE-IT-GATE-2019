@@ -34,7 +34,8 @@
 
 ---
 
-# ShotNote 
+# Short Summary 
+<img width="2169" height="1149" alt="image" src="https://github.com/user-attachments/assets/83bc202e-0835-40f8-97de-793c49f1afaa" />
 
 ## COMPUTER SCIENCE AND IT GATE 2019  || Total Marks 100
 ## SECTION : A (Heart of CS Subjects) || Marks 20+
