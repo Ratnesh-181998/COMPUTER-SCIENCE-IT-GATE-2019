@@ -34,7 +34,9 @@
 
 ---
 
-# Short Summary 
+# Short Summary ( By RATNESH KUMAR SINGH ! MADE EASY )
+## MADE EASY  : https://www.madeeasy.in/
+
 <img width="2169" height="1149" alt="image" src="https://github.com/user-attachments/assets/83bc202e-0835-40f8-97de-793c49f1afaa" />
 <img width="956" height="1150" alt="image" src="https://github.com/user-attachments/assets/9a6c2bf1-87a3-4b76-8cfb-4208e9312d57" />
 <img width="970" height="1252" alt="image" src="https://github.com/user-attachments/assets/53fce973-7476-4581-917a-6bed4fb26403" />
