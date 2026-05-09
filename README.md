@@ -27,6 +27,9 @@
 ### Data Science ,Machine Learning, MLOPS, Deep Learning , Neural Network, Computer Vision , NLP ,GEN AI , Machine Learning and Data Engineering System Design ( 1620+ Problem Solved ) : https://github.com/Ratnesh-181998/DSML
 
 ### Algorithms and Data Structure (Competitive Programming Including all coding platform's 5000+ Problems/Questions solved ) : https://github.com/Ratnesh-181998/Algorithms-and-Data-Structures
+
+### JEE 2015 Mathematics (11th & 12th) : https://github.com/Ratnesh-181998/jee-mathematics-11th-and-12th
+
 ### [![Scaler](https://img.shields.io/badge/Scaler-FF6B6B?style=for-the-badge&logo=scaler&logoColor=white)](https://www.scaler.com/academy/profile/16d9756ebf65/)
 ### https://www.scaler.com/academy/profile/16d9756ebf65/
 
