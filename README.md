@@ -36,6 +36,7 @@
 
 # Short Summary 
 <img width="2169" height="1149" alt="image" src="https://github.com/user-attachments/assets/83bc202e-0835-40f8-97de-793c49f1afaa" />
+<img width="956" height="1150" alt="image" src="https://github.com/user-attachments/assets/9a6c2bf1-87a3-4b76-8cfb-4208e9312d57" />
 
 ## COMPUTER SCIENCE AND IT GATE 2019  || Total Marks 100
 ## SECTION : A (Heart of CS Subjects) || Marks 20+
